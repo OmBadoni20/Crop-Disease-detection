@@ -87,9 +87,8 @@ Here is an example of an uploaded image and the model's output.
 
 Below is another example image demonstrating the app’s working:
 
-![My Demo Image](https://github.com/yourusername/yourrepo/blob/main/path_to_your_image.jpg?raw=true)
-![My Demo Image](https://github.com/yourusername/yourrepo/blob/main/path_to_your_image.jpg?raw=true)
-![My Demo Image](https://github.com/yourusername/yourrepo/blob/main/path_to_your_image.jpg?raw=true)
+<img width="100%" src="https://github.com/aryanedusomaiya/Crop-Disease-detection/blob/main/unnamed%20(1).png" alt="header-img" />
+<img width="100%" src="https://github.com/aryanedusomaiya/Crop-Disease-detection/blob/main/unnamed.png" alt="header-img" />
 
 *(Replace the link above with your actual GitHub image URL.)*
 
