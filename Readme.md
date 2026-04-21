@@ -66,7 +66,7 @@ Recall Score    : 96.77 %
 Here is an example of an uploaded image and the model's output.
 
 *   **Input Image:**
-    ![Sample Leaf] ![alt text](<static/image (16).png>)
+    ![Sample Leaf] (./static/input_sample.png)
 
 *   **Predicted Output:**
     ```
