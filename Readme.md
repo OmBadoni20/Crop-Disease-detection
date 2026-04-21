@@ -66,7 +66,7 @@ Recall Score    : 96.77 %
 Here is an example of an uploaded image and the model's output.
 
 *   **Input Image:**
-    ![Sample Leaf](C:\Users\ombad\OneDrive\Desktop\crop_disease_app\static\00075aa8-d81a-4184-8541-b692b78d398a___FREC_Scab 3335_270deg.jpg)
+    ![Sample Leaf] ![alt text](<static/image (16).png>)
 
 *   **Predicted Output:**
     ```
